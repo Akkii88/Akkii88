@@ -4,9 +4,7 @@ I’m currently working on FaithConnect<br>I’m looking to collaborate on Stay 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankit-yadav-186456255/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitdabur08@gmail.com) 
 ###
-
 <img align="right" height="200" src="https://octodex.github.com/images/NUX_Octodex.gif"  />
-
 ###
 
 ## 💻 Tech Stack:
