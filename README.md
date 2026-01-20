@@ -5,8 +5,20 @@
   />
 </div>
 
-## 💫 About Me:
-I’m currently working on FaithConnect<br>I’m looking to collaborate on Stay With Me<br>I’m currently learning LLM fine-tuning
+## 🚀 About Me
+I'm a passionate **Software Engineer** and **AI Researcher** with a knack for building systems since age 12. Currently pursuing a **Master of Computer Applications in AI/ML** at Chandigarh University, I specialize in architecting scalable solutions that bridge the gap between traditional software engineering and cutting-edge Artificial Intelligence.
+
+- 🔭 I’m currently working on **Vigil360**, a streaming-native fraud detection platform, and **PACGBI**, an automated COBOL refactoring pipeline using LLMs.
+- 🌱 I’m deeply exploring **Agentic AI**, **Real-time Data Processing (Kafka)**, and **Graph-based Code Analysis**.
+- 💼 Previously, I interned at **CSIR - National Physical Laboratory (NPL)** where I built a secure digital employee management system.
+- 🏅 **Achievements**: Runner-up at Humanity Founder Hackathon (FaithConnect) & National-level Taekwondo Player.
+- ⚡ **Fun fact**: I love fusing legacy tech with modern AI to solve complex problems!
+
+## 🛠️ Technical Arsenal
+- **Languages**: Python, C/C++, Java, JavaScript (MERN), Dart
+- **AI/ML**: PyTorch, TensorFlow, Keras, Scikit-Learn, LLM Agents, RAG
+- **Tools & Infra**: Docker, Kubernetes, Git, Linux, Firebase, GCP
+- **Databases**: PostgreSQL, MySQL, MongoDB
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankit-yadav-186456255/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitdabur08@gmail.com) 
