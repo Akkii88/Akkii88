@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+       alt="Banner" 
+       width="60%" />
+</p>
+
 ## 💫 About Me:
 I’m currently working on FaithConnect<br>I’m looking to collaborate on Stay With Me<br>I’m currently learning LLM fine-tuning
 
@@ -29,6 +35,9 @@ I’m currently working on FaithConnect<br>I’m looking to collaborate on Stay 
     </td>
   </tr>
 </table>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
 
 
 
