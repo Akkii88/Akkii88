@@ -4,6 +4,7 @@
     width="60%"
   />
 </div>
+
 ## 💫 About Me:
 I’m currently working on FaithConnect<br>I’m looking to collaborate on Stay With Me<br>I’m currently learning LLM fine-tuning
 
