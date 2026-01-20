@@ -16,14 +16,11 @@ I'm a passionate **Software Engineer** and **AI Researcher** with a knack for bu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankit-yadav-186456255/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitdabur08@gmail.com) 
 
 
-## 🏆 GitHub Trophies
-
+## 📊 GitHub Highlights
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=akkii88"
-    alt="GitHub Trophies"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=akkii88&show_icons=true&theme=dark&hide_border=true" />
 </p>
+
 
 
 ## 💻 Tech Stack:
