@@ -18,7 +18,7 @@ I'm a passionate **Software Engineer** and **AI Researcher** with a knack for bu
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shafisma/shafisma/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shafisma/shafisma/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Akkii88/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Akkii88/Akkii88/output/pacman-contribution-graph.svg">
   </picture>
 </div>
   
