@@ -12,16 +12,6 @@ I'm a passionate **Software Engineer** and **AI Researcher** with a knack for bu
 - I’m deeply exploring **Agentic AI**, **Real-time Data Processing (Kafka)**, and **Graph-based Code Analysis**.
 - Previously, I interned at **CSIR - National Physical Laboratory (NPL)** where I built a secure digital employee management system.
 
-## Contributions
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shafisma/shafisma/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shafisma/shafisma/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Akkii88/Akkii88/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-  
 [![CI](https://github.com/Akkii88/BiteSize/actions/workflows/ci.yml/badge.svg)](https://github.com/Akkii88/BiteSize/actions/workflows/ci.yml)
 
 ## 🌐 Socials:
