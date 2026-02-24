@@ -1,8 +1,5 @@
 <div align="center">
-  <img 
-    src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
-    width="60%"
-  />
+<img width="1724" height="598" alt="image" src="https://github.com/user-attachments/assets/c19e3dce-8767-4c6a-87b8-6c0dd9a04e45" />
 </div>
 
 ## About Me 🚀 
