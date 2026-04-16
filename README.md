@@ -13,9 +13,6 @@
 AI&nbsp;&nbsp;&nbsp;&nbsp;SYSTEMS&nbsp;&nbsp;&nbsp;&nbsp;ENGINEER
 </p>
 
-<p align="center">
-REAL-TIME SYSTEMS • FRAUD DETECTION • FASTAPI • AGENTIC AI
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF0033&center=true&vCenter=true&width=900&lines=Building+real-time+AI+systems;Fraud+Detection+%7C+FastAPI+%7C+Applied+ML;Open+to+Work" />
