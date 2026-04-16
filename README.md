@@ -36,7 +36,9 @@
 
 ---
 
-<h1 align="center">CORE INTELLIGENCE</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/CORE%20INTELLIGENCE-111111?style=for-the-badge&labelColor=111111&color=ff0033" />
+</p>
 
 ```text
 ! [IDENTITY]: Ankit
@@ -50,7 +52,9 @@
 
 ---
 
-<h1 align="center">SYSTEM LOG</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM%20LOG-111111?style=for-the-badge&labelColor=111111&color=ff0033" />
+</p>
 
 ```text
 ! [SYSTEM_LOG]: Accessing Career Records...
@@ -69,7 +73,9 @@
 
 ---
 
-<h1 align="center">MODULES</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/MODULES-111111?style=for-the-badge&labelColor=111111&color=ff0033" />
+</p>
 
 ```text
 ! [MODULES]: Loading AI Systems...
@@ -97,7 +103,9 @@
 
 ---
 
-<h1 align="center">TECHNICAL ARSENAL</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/TECHNICAL%20ARSENAL-111111?style=for-the-badge&labelColor=111111&color=ff0033" />
+</p>
 
 ```text
 ! =============================================== !
@@ -166,7 +174,9 @@
 
 ---
 
-<h1 align="center">PIPELINE</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/PIPELINE-111111?style=for-the-badge&labelColor=111111&color=ff0033" />
+</p>
 
 ```text
 ! [PIPELINE]: Skill Development Sync
@@ -183,7 +193,9 @@
 
 ---
 
-<h1 align="center">CORE COMPETENCIES</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/CORE%20COMPETENCIES-111111?style=for-the-badge&labelColor=111111&color=ff0033" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Real--Time_AI-111111?style=for-the-badge" />
@@ -201,7 +213,9 @@
 
 ---
 
-<h1 align="center">GITHUB STATS</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/GITHUB%20STATS-111111?style=for-the-badge&labelColor=111111&color=ff0033" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Akkii88&show_icons=true&theme=radical&hide_border=true" />
@@ -217,7 +231,9 @@
 
 ---
 
-<h1 align="center">CURRENT DIRECTION</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/CURRENT%20DIRECTION-111111?style=for-the-badge&labelColor=111111&color=ff0033" />
+</p>
 
 ```text
 ! [CURRENT_FOCUS]: Building stronger AI systems
