@@ -1,6 +1,15 @@
-<div align="center">
-<img width="1724" height="598" alt="image" src="https://github.com/user-attachments/assets/c19e3dce-8767-4c6a-87b8-6c0dd9a04e45" />
-</div>
+<p align="center">
+
+```text
+░█████╗░██╗  ███╗░░░███╗██╗░░░░░  ███████╗███╗░░██╗░██████╗░██╗███╗░░██╗███████╗███████╗██████╗░
+██╔══██╗██║  ████╗░████║██║░░░░░  ██╔════╝████╗░██║██╔════╝░██║████╗░██║██╔════╝██╔════╝██╔══██╗
+███████║██║  ██╔████╔██║██║░░░░░  █████╗░░██╔██╗██║██║░░██╗░██║██╔██╗██║█████╗░░█████╗░░██████╔╝
+██╔══██║██║  ██║╚██╔╝██║██║░░░░░  ██╔══╝░░██║╚████║██║░░╚██╗██║██║╚████║██╔══╝░░██╔══╝░░██╔══██╗
+██║░░██║██║  ██║░╚═╝░██║███████╗  ███████╗██║░╚███║╚██████╔╝██║██║░╚███║███████╗███████╗██║░░██║
+╚═╝░░╚═╝╚═╝  ╚═╝░░░░░╚═╝╚══════╝  ╚══════╝╚═╝░░╚══╝░╚═════╝░╚═╝╚═╝░░╚══╝╚══════╝╚══════╝╚═╝░░╚═╝
+```
+
+</p>
 
 ## About Me 🚀 
 I'm a passionate **Software Engineer** and **AI Researcher** with a knack for building systems since age 12. Currently pursuing a **Master of Computer Applications in AI/ML** at Chandigarh University, I specialize in architecting scalable solutions that bridge the gap between traditional software engineering and cutting-edge Artificial Intelligence.
