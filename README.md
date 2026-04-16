@@ -1,245 +1,66 @@
 <p align="center">
 <pre>
-        █████╗ ██╗    ███╗   ███╗██╗         ███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗███████╗███████╗██████╗ 
-       ██╔══██╗██║    ████╗ ████║██║         ██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║██╔════╝██╔════╝██╔══██╗
-       ███████║██║    ██╔████╔██║██║         █████╗  ██╔██╗ ██║██║  ██╗ ██║██╔██╗ ██║█████╗  █████╗  ██████╔╝
-       ██╔══██║██║    ██║╚██╔╝██║██║         ██╔══╝  ██║╚██╗██║██║  ╚██╗██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗
-       ██║  ██║██║    ██║ ╚═╝ ██║███████╗    ███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║███████╗███████╗██║  ██║
-       ╚═╝  ╚═╝╚═╝    ╚═╝     ╚═╝╚══════╝    ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
+         █████╗ ██╗    ███╗   ███╗██╗         ███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗███████╗███████╗██████╗ 
+        ██╔══██╗██║    ████╗ ████║██║         ██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║██╔════╝██╔════╝██╔══██╗
+        ███████║██║    ██╔████╔██║██║         █████╗  ██╔██╗ ██║██║  ██╗ ██║██╔██╗ ██║█████╗  █████╗  ██████╔╝
+        ██╔══██║██║    ██║╚██╔╝██║██║         ██╔══╝  ██║╚██╗██║██║  ╚██╗██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗
+        ██║  ██║██║    ██║ ╚═╝ ██║███████╗    ███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║███████╗███████╗██║  ██║
+        ╚═╝  ╚═╝╚═╝    ╚═╝     ╚═╝╚══════╝    ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
 </pre>
 </p>
 
 <p align="center">
-  <b>AI&nbsp;&nbsp;&nbsp;&nbsp;SYSTEMS&nbsp;&nbsp;&nbsp;&nbsp;ENGINEER</b>
+AI&nbsp;&nbsp;&nbsp;ML&nbsp;&nbsp;&nbsp;ENGINEER
 </p>
 
-<p align="center">
-  REAL-TIME SYSTEMS • FRAUD DETECTION • FASTAPI • APPLIED AI
-</p>
+## About Me 🚀 
+I'm a passionate **Software Engineer** and **AI Researcher** with a knack for building systems since age 12. Currently pursuing a **Master of Computer Applications in AI/ML** at Chandigarh University, I specialize in architecting scalable solutions that bridge the gap between traditional software engineering and cutting-edge Artificial Intelligence.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=FF0033&center=true&vCenter=true&width=900&lines=Building+real-time+AI+systems;Fraud+Detection+%7C+FastAPI+%7C+Applied+ML;Open+to+Work" alt="Typing SVG" />
-</p>
+- I’m currently working on **Vigil360**, a streaming-native fraud detection platform, and **PACGBI**, an automated COBOL refactoring pipeline using LLMs.
+- I’m deeply exploring **Agentic AI**, **Real-time Data Processing (Kafka)**, and **Graph-based Code Analysis**.
+- Previously, I interned at **CSIR - National Physical Laboratory (NPL)** where I built a secure digital employee management system.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI%20SYSTEMS-ENGINEER-ff0033?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FASTAPI-BACKEND-ff0033?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MACHINE%20LEARNING-ENGINEER-ff0033?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/REAL--TIME-SYSTEMS-ff0033?style=for-the-badge&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/FRAUD-DETECTION-ff0033?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OPEN%20TO-WORK-00cc66?style=for-the-badge" />
-</p>
+[![CI](https://github.com/Akkii88/BiteSize/actions/workflows/ci.yml/badge.svg)](https://github.com/Akkii88/BiteSize/actions/workflows/ci.yml)
 
-<p align="center">
-  EMAIL: ankitdabur08@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp; STATUS: OPEN TO WORK
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankit-yadav-186456255/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitdabur08@gmail.com) 
 
----
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CORE%20INTELLIGENCE-111111?style=for-the-badge&labelColor=111111&color=ff0033" />
-</p>
-
-```text
-! [IDENTITY]: Ankit
-+ ROLE: AI Systems Engineer
-# FOCUS: Real-Time AI | Fraud Detection | Applied ML Systems
-
-- MISSION: Build production-ready intelligent systems combining backend engineering with machine learning
-- SPECIALTY: Real-time fraud detection, low-latency inference, backend AI systems
-- STACK: Python, FastAPI, PyTorch, PostgreSQL, React
-```
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM%20LOG-111111?style=for-the-badge&labelColor=111111&color=ff0033" />
-</p>
-
-```text
-! [SYSTEM_LOG]: Accessing Career Records...
-
-+ [CURRENT]&#58; Vigil360-Intelligence
-# TYPE: Financial Crime Intelligence Platform
-- Designed real-time fraud detection system architecture
-- Built backend pipelines for real-time transaction risk scoring
-- Focused on AI + system integration
-
-+ [HISTORY]&#58; CSIR - National Physical Laboratory (NPL)
-# ROLE: Software Development Intern
-- Built secure employee management system
-- Delivered production-ready internal platform
-```
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MODULES-111111?style=for-the-badge&labelColor=111111&color=ff0033" />
-</p>
-
-```text
-! [MODULES]: Loading AI Systems...
-
-+ [PROJECT]&#58; SentinelPay
-# TYPE: Real-Time Fraud Detection System
-- ML backend integrated with frontend for transaction monitoring
-
-+ [PROJECT]&#58; Diffusion-finetuneLLM
-# TYPE: LoRA Fine-Tuning Platform
-- Built full-stack system for Stable Diffusion fine-tuning
-
-+ [PROJECT]&#58; Fedral.AI
-# TYPE: Federated Learning System
-- Privacy-preserving ML using distributed hospital data
-
-+ [PROJECT]&#58; Vigil360-Intelligence
-# TYPE: Financial Crime Intelligence System
-- Real-time risk scoring and fraud detection pipeline
-
-+ [PROJECT]&#58; SahayakAI
-# TYPE: AI Assistant
-- Conversational AI system for rural assistance (Hindi/English)
-```
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/TECHNICAL%20ARSENAL-111111?style=for-the-badge&labelColor=111111&color=ff0033" />
-</p>
-
-```text
-! =============================================== !
-+ [SYSTEM]&#58; LOADING TECHNICAL CAPABILITIES...
-! =============================================== !
-```
-
-<table align="center">
+## 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center" width="50%">
-      <b>BACKEND</b>
-      <br><br>
-      <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=ff0033" />
-      <br>
-      <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=ff0033" />
-      <br>
-      <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=postman&logoColor=ff0033" />
+    <td align="center" width="33%">
+      <img
+        src="https://nirzak-streak-stats.vercel.app/?user=akkii88&theme=dark&hide_border=true"
+        alt="GitHub Streak Stats"
+      />
     </td>
-    <td align="center" width="50%">
-      <b>MACHINE LEARNING</b>
-      <br><br>
-      <img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=ff0033" />
-      <br>
-      <img src="https://img.shields.io/badge/Scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=ff0033" />
-      <br>
-      <img src="https://img.shields.io/badge/AutoML-111111?style=for-the-badge" />
+    <td align="center" width="33%">
+      <img
+        height="200"
+        src="https://octodex.github.com/images/daftpunktocat-thomas.gif"
+        alt="Octocat"
+      />
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <b>DATABASES</b>
-      <br><br>
-      <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=ff0033" />
-      <br>
-      <img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=ff0033" />
-    </td>
-    <td align="center" width="50%">
-      <b>FRONTEND / VISUALS</b>
-      <br><br>
-      <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=ff0033" />
-      <br>
-      <img src="https://img.shields.io/badge/Tableau-111111?style=for-the-badge&logo=tableau&logoColor=ff0033" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <b>AI / RESEARCH</b>
-      <br><br>
-      <img src="https://img.shields.io/badge/Federated_Learning-111111?style=for-the-badge" />
-      <br>
-      <img src="https://img.shields.io/badge/Diffusion_Models-111111?style=for-the-badge" />
-      <br>
-      <img src="https://img.shields.io/badge/LoRA_Fine--Tuning-111111?style=for-the-badge" />
-    </td>
-    <td align="center" width="50%">
-      <b>TOOLS</b>
-      <br><br>
-      <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=ff0033" />
-      <br>
-      <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=ff0033" />
-      <br>
-      <img src="https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=ff0033" />
+    <td align="center" width="33%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkii88&theme=dark&hide_border=true&layout=compact"
+        alt="Top Languages"
+      />
     </td>
   </tr>
 </table>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
+</div>
 
----
 
-<p align="center">
-  <img src="https://img.shields.io/badge/PIPELINE-111111?style=for-the-badge&labelColor=111111&color=ff0033" />
-</p>
 
-```text
-! [PIPELINE]: Skill Development Sync
 
-+ [LOADING]&#58; Real-Time Systems
-- PROGRESS: ////////////////////// 85%
 
-+ [LOADING]&#58; Machine Learning Systems
-- PROGRESS: //////////////////// 80%
 
-+ [LOADING]&#58; MLOps / AIOps
-- PROGRESS: ////////////////// 70%
-```
 
----
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CORE%20COMPETENCIES-111111?style=for-the-badge&labelColor=111111&color=ff0033" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Real--Time_AI-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Fraud_Detection-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend_Architecture-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Applied_ML-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Federated_Learning-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Diffusion_Systems-111111?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_Visualization-111111?style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GITHUB%20STATS-111111?style=for-the-badge&labelColor=111111&color=ff0033" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akkii88&show_icons=true&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akkii88&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akkii88&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/CURRENT%20DIRECTION-111111?style=for-the-badge&labelColor=111111&color=ff0033" />
-</p>
-
-```text
-! [CURRENT_FOCUS]: Building stronger AI systems
-
-- Real-time fraud detection and risk scoring
-- Production-ready FastAPI backends
-- Applied ML systems with practical deployment focus
-- Research-driven AI engineering projects
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
