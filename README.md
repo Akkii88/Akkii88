@@ -13,7 +13,7 @@
 AI&nbsp;&nbsp;&nbsp;ML&nbsp;&nbsp;&nbsp;ENGINEER
 </p>
 
-## About Me 🚀 
+## About Me
 I'm a passionate **Software Engineer** and **AI Researcher** with a knack for building systems since age 12. Currently pursuing a **Master of Computer Applications in AI/ML** at Chandigarh University, I specialize in architecting scalable solutions that bridge the gap between traditional software engineering and cutting-edge Artificial Intelligence.
 
 - I’m currently working on **Vigil360**, a streaming-native fraud detection platform, and **PACGBI**, an automated COBOL refactoring pipeline using LLMs.
