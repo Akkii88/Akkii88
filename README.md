@@ -14,11 +14,7 @@ AI&nbsp;&nbsp;&nbsp;ML&nbsp;&nbsp;&nbsp;ENGINEER
 </p>
 
 ## About Me
-I'm a passionate **Software Engineer** and **AI Researcher** with a knack for building systems since age 18. Currently pursuing a **Master of Computer Applications in AI/ML** at Chandigarh University, I specialize in architecting scalable solutions that bridge the gap between traditional software engineering and cutting-edge Artificial Intelligence.
-
-- I’m currently working on **Vigil360**, a streaming-native fraud detection platform, and **PACGBI**, an automated COBOL refactoring pipeline using LLMs.
-- I’m deeply exploring **Agentic AI**, **Real-time Data Processing (Kafka)**, and **Graph-based Code Analysis**.
-- Previously, I interned at **CSIR - National Physical Laboratory (NPL)** where I built a secure digital employee management system.
+Software Engineer & AI Researcher focused on building intelligent systems through research-driven engineering. Currently pursuing an MCA in AI/ML at Chandigarh University, where I work on scalable AI applications, distributed systems, and real-time data architectures. My work includes developing platforms like Vigil360, PACGBI, Fedral.AI, and eyeBERT, built from independent research in areas such as Federated Learning, LLMs, Agentic AI, and graph-based code intelligence. Previously worked at CSIR–NPL, contributing to secure enterprise software solutions and cloud-backed infrastructure systems.
 
 [![CI](https://github.com/Akkii88/BiteSize/actions/workflows/ci.yml/badge.svg)](https://github.com/Akkii88/BiteSize/actions/workflows/ci.yml)
 
