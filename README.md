@@ -1,9 +1,8 @@
-<p align="center">
-AI&nbsp;&nbsp;&nbsp;ML&nbsp;&nbsp;&nbsp;ENGINEER
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
 
-## About Me
-Software Engineer & AI Researcher focused on building intelligent systems through research-driven engineering. Currently pursuing an MCA in AI/ML at Chandigarh University, where I work on scalable AI applications, distributed systems, and real-time data architectures. My work includes developing platforms like Vigil360, PACGBI, Fedral.AI, and eyeBERT, built from independent research in areas such as Federated Learning, LLMs, Agentic AI, and graph-based code intelligence. Previously worked at CSIR–NPL, contributing to secure enterprise software solutions and cloud-backed infrastructure systems.
+  <img alt="akkii88's GitHub profile" src="dark_mode.svg" />
+</picture>
 
 [![CI](https://github.com/Akkii88/BiteSize/actions/workflows/ci.yml/badge.svg)](https://github.com/Akkii88/BiteSize/actions/workflows/ci.yml)
 
